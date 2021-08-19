@@ -1,1 +1,2 @@
-This file bbbeing created from command promt by laptop
+This file being created from command prompt
+Second line 
